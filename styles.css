@@ -1,0 +1,22 @@
+h1 {
+    color: burlywood;
+}
+h4 {
+    color: rgb(75, 138, 117);
+}
+h3{
+    color: #b13b3b;
+}
+
+#Linkedin {
+    padding: 20px;
+    border: 3px solid #76c379;
+    color: #000000;
+}
+
+* {
+    background-color: rgb(218, 243, 243);
+}
+#image {
+    padding-left: 60px;
+}
